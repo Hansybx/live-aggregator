@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/dplayer": "^1.25.2",
     "@types/node": "^18.15.9",
+    "dplayer": "^1.27.1",
+    "flv.js": "^1.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "6"
