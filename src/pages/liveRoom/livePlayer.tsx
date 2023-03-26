@@ -25,7 +25,7 @@ export default function livePlayer() {
         };
         const dp = new DPlayer(options);
         console.log('test', options, dp)
-        dp.play()
+        dp.play();
       })
   return (
     <div id="dplayer"></div>
